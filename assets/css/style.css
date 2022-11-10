@@ -1,0 +1,15 @@
+@import url("cabecalho.css");
+
+:root {
+    --vinho: #8E2424;
+    --vinho-claro: #b43939;
+    --cinza: #667085;
+    --branco: #FFFFFF;
+    --preto: #000000;
+    --font-padrao: 'Inter';
+}
+
+body {
+    font-family: var(--font-padrao), sans-serif;
+    font-size: 16px;
+}
