@@ -1,15 +1,21 @@
-.cabecalho {
+.cabecalho__container {
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 4.5em;
+    justify-content: space-between;
+    padding: 1rem 4rem;
+}
+
+.cabecalho__container--principal {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 10rem;
 }
 
 .cabecalho__logo {
     display: flex;
     align-items: center;
     font-weight: 500;
-    margin-right: 6em;
 }
 
 .cabecalho__logo--icone {
@@ -19,8 +25,7 @@
 .cabecalho__menu {
     display: flex;
     justify-content: space-between;
-    width: 30%;
-    margin-right: 20em;
+    gap: 3rem;
 }
 
 .cabecalho__menu--item {
