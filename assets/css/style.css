@@ -1,6 +1,7 @@
 @import url("cabecalho.css");
 @import url("cabecalhoSecundario.css");
 @import url("metricas.css");
+@import url("procuraTalentos.css");
 
 :root {
     --vinho: #8E2424;

@@ -1,0 +1,41 @@
+.procura-talentos__container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.procura-talentos__vagas,
+.procura-talentos__titulo {
+    margin-bottom: 1.3rem;
+}
+
+.procura-talentos__vagas {
+    color: var(--vinho);
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    text-decoration: none;
+    padding: 8px 20px;
+}
+
+.procura-talentos__titulo {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.procura-talentos__texto,
+.procura-talentos__imagem {
+    margin-bottom: 4rem;
+}
+
+.procura-talentos__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.procura-talentos__imagem {
+    height: 400px;
+    width: 85%;
+    object-fit: cover;
+    object-position: center;
+}
