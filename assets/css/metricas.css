@@ -1,15 +1,15 @@
 .metricas {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    padding: 6rem;
-    gap: 4rem;
-    
+    width: 90%;
+    gap: 3.5%;
+    margin-bottom: 6rem;
 }
 
 .container__metrica {
     display: flex;
     flex-direction: column;
-    height: 18rem;
+    height: 14rem;
 }
 
 .metrica__quantidade {
