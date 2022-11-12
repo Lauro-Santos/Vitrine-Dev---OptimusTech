@@ -1,0 +1,43 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 40%;
+    margin-bottom: 4.5rem;
+}
+
+.vaga__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    margin-top: 4rem;
+}
+
+.vaga__card {
+    border: 1px solid var(--cinza-claro);
+    border-radius: 10px;
+    width: 100%;
+    padding: 1.5rem;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.vaga__card--titulo {
+    color: var(--preto);
+    font-size: 18px;
+    font-weight: 500;
+    grid-column: span 2;
+    margin-bottom: 4rem;
+}
+
+.vaga__card--tempo,
+.vaga__card--salario {
+    color: var(--cinza);
+}
+
+.vaga__card:hover {
+    background-color: var(--cinza-claro);
+}

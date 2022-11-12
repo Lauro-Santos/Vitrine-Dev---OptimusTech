@@ -2,11 +2,13 @@
 @import url("cabecalhoSecundario.css");
 @import url("metricas.css");
 @import url("procuraTalentos.css");
+@import url("vagas.css");
 
 :root {
     --vinho: #8E2424;
     --vinho-claro: #b43939;
     --cinza: #667085;
+    --cinza-claro: #EAECF0;
     --branco: #FFFFFF;
     --preto: #000000;
     --font-padrao: 'Inter';
