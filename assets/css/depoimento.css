@@ -1,0 +1,48 @@
+.depoimento {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: var(--vinho-baixa-opacidade);
+    align-items: center;
+    padding: 4rem;
+    margin-bottom: 6rem;
+}
+
+.depoimento__titulo {
+    color: var(--vinho);
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.depoimento__texto {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    line-height: 44px;
+}
+
+.colaborador__container {
+    text-align: center;
+}
+
+.colaborador--foto {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 50%;
+    object-position: center;
+    margin-bottom: 1rem;
+}
+
+.colaborador--nome {
+    font-weight: 500;
+    margin-bottom: .3rem;
+}
+
+.colaborador--cargo {
+    color: var(--cinza);
+    font-size: 14px;
+    font-weight: 400;
+}
