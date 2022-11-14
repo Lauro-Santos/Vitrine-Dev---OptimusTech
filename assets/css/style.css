@@ -4,12 +4,14 @@
 @import url("procuraTalentos.css");
 @import url("vagas.css");
 @import url("depoimento.css");
+@import url("rodape.css");
 
 :root {
     --vinho: #8E2424;
     --vinho-baixa-opacidade: rgba(142, 36, 36, 0.15);
     --vinho-claro: #b43939;
     --cinza: #667085;
+    --branco-rodape: #F9FAFB;
     --cinza-claro: #EAECF0;
     --branco: #FFFFFF;
     --preto: #000000;
