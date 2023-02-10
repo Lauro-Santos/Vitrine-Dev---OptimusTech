@@ -2,7 +2,9 @@
 
 #7DaysOfCode
 
-
+<video autoplay width="350">
+    <source src="/media/cc0-videos/flower.mp4" type="video/mp4">
+</video>
 
 <br>
 
