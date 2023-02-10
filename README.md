@@ -2,9 +2,7 @@
 
 #7DaysOfCode
 
-<video autoplay width="350">
-    <source src="assets/img/(10) Publicação LinkedIn.mp4">
-</video>
+<img src="assets/img/video of project.gif" alt="gif animado do projeto"></img>
 
 <br>
 
