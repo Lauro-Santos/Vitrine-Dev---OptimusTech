@@ -3,17 +3,24 @@
 #### #7DaysOfCode
 ![](https://7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraDev**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://github.com/Lauro-Santos/OptimusTech
+| :fire: Desafio     | #7DaysOfCode
+
 <p align="justify">Esse projeto foi proposto pela <a href="https://github.com/giovannamoeller">Giovanna Moeller<a/> Desenvolvedora Web & iOS, como um desafio pra aplicar os conhecimentos de HTML e CSS, o projeto consiste na pagina web de contratação de uma empresa de tecnologia.</p>
 <br>
 
-<img src="assets/img/video of project.gif" alt="gif animado do projeto" width="500">
+<img src="https://raw.githubusercontent.com/Lauro-Santos/OptimusTech/master/assets/img/video%20of%20project.gif#vitrinedev" alt="gif animado do projeto" width="500">
 
 <br>
 <p align="justify">Para praticar Front-end, foi proposto um desafio de 7 dias utilizando <strong>HTML</strong> e <strong>CSS</strong>. O desafio 
 era desenvolver uma página real a partir de um layout no Figma, algo que todo desenvolvedor terá que fazer no seu dia-a-dia no mercado. Para concluir esse 
 desafio, foram utilizados conceitos básicos como div, section, flex-box, medidas responsivas em CSS, Grid e muitos outros, coisas que qualquer pessoa entrando na área de Front-end precisa conhecer. Foi usado apenas HTML e CSS para criação do projeto palicando o conhecimento adiquirido durante o curso de HTML e CSS da Alura, ao final foi dada a liberdade para adicionar interações visuais com CSS, foi adicionado pequenas interações sem se perder da sobriedade que o projeto requeria.</p>
 
-<img src="assets/img/Captura de tela 2023-02-10 145930.jpg" alt="Screamshot 1 do projeto" width="500"><img src="assets/img/Captura de tela 2023-02-10 151531.jpg" alt="Screamshot 2 do projeto" width="500">
+<img src="https://raw.githubusercontent.com/Lauro-Santos/OptimusTech/master/assets/img/Captura%20de%20tela%202023-02-10%20145930.jpg#vitrinedev" alt="Screamshot 1 do projeto" width="500"><img src="https://raw.githubusercontent.com/Lauro-Santos/OptimusTech/master/assets/img/Captura%20de%20tela%202023-02-10%20151531.jpg#vitrinedev" alt="Screamshot 2 do projeto" width="500">
 
 ## Deploy
 
