@@ -1,7 +1,7 @@
 # OptimusTech . ![](http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge) ![](http://img.shields.io/static/v1?label=responsive&message=no&color=orange&style=for-the-badge)
 
-#### #7DaysOfCode
 ![](https://7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
+#### #7DaysOfCode
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
